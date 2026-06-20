@@ -40,6 +40,4 @@ Microsoft Cats and Dogs Dataset
 
 The model successfully classified cat and dog images using HOG features and an SVM classifier. The project demonstrates how traditional machine learning techniques can be applied to image classification tasks.
 
-## Author
 
-Tanvi
